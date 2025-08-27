@@ -18,7 +18,7 @@ CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어
 <h2> 참고 </h2>
 <ol>
 <td>
-  "Imagenet classification with deep convolutional neural networks."
-  Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 
-  Advances in neural information processing systems 25 (2012).</td>
+  "Imagenet classification with deep convolutional neural networks."</td>
+<td> Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. </td> 
+<td>  Advances in neural information processing systems 25 (2012).</td>
 </ol>
