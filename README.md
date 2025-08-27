@@ -9,11 +9,14 @@
 <h2> 느낀점 </h2>
 CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 뭐인지 리포트하고 싶었다.
 
-<h2> 참조 </h2>
+<h2>모델 아티텍쳐</h2>
+<img width="1280" height="720" alt="architecture" src="https://github.com/user-attachments/assets/2d6fe71c-2a91-4e88-99ff-f0fdab53c64b" />
+
+<h2> 결과 </h2>
 <img width="271" height="186" alt="output" src="https://github.com/user-attachments/assets/c5d36f45-bf05-4c0d-9233-7b93082362ad" />
 
 
-<img width="1280" height="720" alt="architecture" src="https://github.com/user-attachments/assets/2d6fe71c-2a91-4e88-99ff-f0fdab53c64b" />
+
 
 <h2> 참고 </h2>
 <ul>
