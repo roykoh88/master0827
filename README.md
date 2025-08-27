@@ -16,9 +16,8 @@ CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어
 <img width="1280" height="720" alt="architecture" src="https://github.com/user-attachments/assets/2d6fe71c-2a91-4e88-99ff-f0fdab53c64b" />
 
 <h2> 참고 </h2>
-<ol>
-<td>
-  "Imagenet classification with deep convolutional neural networks."</td>
+<ul>
+<td>"Imagenet classification with deep convolutional neural networks."</td>
 <td> Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. </td> 
 <td>  Advances in neural information processing systems 25 (2012).</td>
-</ol>
+</ul>
